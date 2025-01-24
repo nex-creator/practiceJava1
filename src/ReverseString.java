@@ -9,6 +9,10 @@ public class ReverseString {
 		
 	String out =	reverseString(in1);
 	System.out.println("Reversed string  " + out);
+	System.out.println("Changes done");
+	System.out.println("Changes done");
+	System.out.println("Changes done");
+	
 		
 	}
 
