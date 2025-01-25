@@ -9,6 +9,8 @@ public class MathFunctions {
 	int output = fact(input1);
 	System.out.println("Factorial of " + input1 + " is :" + output);
 	
+	System.out.println("Factorial of " + input1 + " is :" + output);
+	
 
 	}
 
