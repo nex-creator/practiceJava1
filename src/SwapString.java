@@ -9,9 +9,6 @@ public class SwapString {
 	 System.out.println("After swapping:");
      System.out.println("First number: " + swappedNumbers[0]);
      System.out.println("Second number: " + swappedNumbers[1]);
-
-     
-     
 	}
 	
 	
